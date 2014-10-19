@@ -9,6 +9,7 @@
 *.fsproj merge=union
 *.dbproj merge=union
 *.doc diff=word
+textconv = strings
 
 
 # Standard to msysgit
