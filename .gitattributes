@@ -10,13 +10,9 @@
 *.dbproj merge=union
 *.doc diff=word
 textconv = strings
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
->>>>>>> parent of f542486... Revert "segunda modificacnion getattributes"
-=======
->>>>>>> origin/master
+
+
 
 # Standard to msysgit
 #*.doc	 diff=astextplain
